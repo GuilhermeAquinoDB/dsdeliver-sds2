@@ -1,8 +1,3 @@
- # Back end
-
-## Nivelamento: back end, front end, padrão camadas, MVC, REST
-
-[![Image](https://img.youtube.com/vi/b8uLFfzcVQ8/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/b8uLFfzcVQ8)
 
 ## Modelo conceitual
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png "Modelo conceitual")
